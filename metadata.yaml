@@ -1,0 +1,25 @@
+_repo: Tales-of-the-Caliph_22258
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crellin, H. N. (Horatio Nelson)
+    alias: Crellin, Horatio Nelson
+    gutenberg_agent_id: '25217'
+    url: http://www.gutenberg.org/2009/agents/25217
+description: ''
+gutenberg_issued: '2007-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Harun al-Rashid, Caliph, approximately 763-809 -- Fiction'
+- !lcc 'PR'
+title: Tales of the Caliph
+url: http://www.gutenberg.org/ebooks/22258
